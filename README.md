@@ -1,2 +1,2 @@
-# Pythonista Codecamp
-Python Computations and Simple Projects
+# Lets Pythonista 
+Python Computations and Simple Projects (CodeCamp)
