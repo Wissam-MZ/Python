@@ -1,2 +1,2 @@
-# Lets Pythonista 
-Python Computations and Simple Projects (CodeCamp)
+# scientific-computing-with-python  
+Python Computations and Simple Projects (CodeCamp.com)
